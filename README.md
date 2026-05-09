@@ -2,7 +2,7 @@
 
 *`Desenvolvedor em construção...`*
 
-Me chamo Victor Philemon, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. 
+Me chamo Victor Philemon, tenho 20 anos e sou de São Paulo/SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Após concluir este técnico, pretendo cursar Ciências da Computação.
 
 <p 
     </a>
@@ -26,7 +26,7 @@ Me chamo Victor Philemon, tenho 20 anos e sou natural de São Paulo. Concluí o 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
 <img 
     align="left" 
