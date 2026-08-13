@@ -66,11 +66,11 @@ Me chamo Victor Philemon, tenho 20 anos e sou de São Paulo/SP. Atualmente, esto
 
 <img 
     align="left" 
-    alt="DBT"
-    title="DBT" 
+    alt="SPARK"
+    title="SPARK" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spark/spark-original.svg" 
 />
 
 
