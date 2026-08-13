@@ -64,14 +64,4 @@ Me chamo Victor Philemon, tenho 20 anos e sou de São Paulo/SP. Atualmente, esto
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="SPARK"
-    title="SPARK" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spark/spark-original.svg" 
-/>
-
-
 </p>
