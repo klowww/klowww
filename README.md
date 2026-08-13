@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Victor Philemon
 
-*`Desenvolvedor em construção...`*
+*`Data Engineer em construção...`*
 
 Me chamo Victor Philemon, tenho 20 anos e sou de São Paulo/SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Após concluir este técnico, pretendo cursar Ciências da Computação.
 
@@ -57,20 +57,20 @@ Me chamo Victor Philemon, tenho 20 anos e sou de São Paulo/SP. Atualmente, esto
 
 <img 
     align="left" 
-    alt="TERRAFORM"
-    title="TERRAFORM" 
+    alt="GIT"
+    title="GIT" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <img 
     align="left" 
-    alt="NODE.JS"
-    title="NODE.JS" 
+    alt="DBT"
+    title="DBT" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" 
 />
 
 
